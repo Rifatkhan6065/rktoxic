@@ -1,4 +1,4 @@
-![RkBomber](https://h.top4top.io/p_2611gbau61.jpg)
+![RkBomber]
 <p align="center">Most Updated SMS Bomber For Bangladeshi Numbers</p>
 
 ## Note:
@@ -29,7 +29,7 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Toxic-Noob/ToxicBomber
+git clone https://github.com/Rifatkhan6065/rktoxic
 cd RkBomber
 python rkbomb.py
 ```
