@@ -1,10 +1,10 @@
-![RkBomber]
+![rktoxic]
 <p align="center">Most Updated SMS Bomber For Bangladeshi Numbers</p>
 
 ## Note:
 Due to Python Version changes, ToxicBomber's Version 3.0 Wasn't Working anymore. So We updated ToxicBomber Python Version 3.10 to 3.11. And to be Noted, You Have to reInstall the Tool after removing The old one from your device. To Remove Old Version, simply type:
 ``` shell script
-rm -rf RkBomber
+rm -rf rktoxic
 ```
 In your Terminal
 
@@ -19,7 +19,7 @@ In your Terminal
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf ToxicBomber
+rm -rf rktoxic
 ```
 To Install Tool Newly:
 
@@ -30,8 +30,8 @@ pkg install python -y
 pkg install git -y
 pip install requests
 git clone https://github.com/Rifatkhan6065/rktoxic.git 
-cd RkBomber
-python rkbomb.py
+cd rktoxic
+python smsbomb.py
 ```
 
 ## Note:
@@ -41,11 +41,11 @@ python rkbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="mailto: ToxicNoob.Sl4d3.Official@gmail.com">Email</a>
+<li> Via <a href="mailto:@gmail.com">Email</a>
 
 
 
 ### Visitors :
 
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)# rktoxic
+![Visitor Count](rktoxic)# rktoxic
 rktoxic is most powerful android tool for termux .
