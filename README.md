@@ -29,7 +29,7 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Rifatkhan6065/rktoxic
+git clone https://github.com/Rifatkhan6065/rktoxic.git 
 cd RkBomber
 python rkbomb.py
 ```
